@@ -1,6 +1,0 @@
-openai
-huggingface-hub
-numpy
-pandas
-tqdm
-datasets
